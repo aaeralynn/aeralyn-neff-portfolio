@@ -1,4 +1,5 @@
 import React from "react";
+import "./AboutMe.css"; // Importing the CSS file for this component
 
 const AboutMe = () => {
   return (
@@ -7,7 +8,7 @@ const AboutMe = () => {
       <h3>Aeralyn Neff</h3>
 
       <img
-        src="https://drive.google.com/file/d/1KnwEMF9VZw9kz6n003xvZai57meR54Ka/view?usp=drive_link"
+        src="https://i.imgur.com/f8KPu4N.jpeg"
         alt="Photo of myself"
         style={{ width: "200px", borderRadius: "50%" }}
       />
