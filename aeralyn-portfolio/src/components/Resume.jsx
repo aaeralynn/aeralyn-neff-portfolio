@@ -1,15 +1,14 @@
 import React from "react";
+import "../styles/Resume.css"; // Importing the CSS file for this component
 
 const Resume = () => {
   return (
     <section>
       <h2>Resume</h2>
-      <p>
-        Download my resume below and check out a few of my key proficiencies!
-      </p>
+      <p>Download my resume and view my newly learned skills below!</p>
 
       <a
-        href="/assets/Aeralyn-Neff-Resume.pdf"
+        href="/public/assets/Copy Of Resume.pdf"
         download
         className="resume-download"
       >
