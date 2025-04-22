@@ -5,10 +5,10 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>© {new Date().getFullYear()} Your Name</p>
+      <p>© {new Date().getFullYear()} Aeralyn Neff</p>
       <div className="social-links">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/aaeralynn"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
