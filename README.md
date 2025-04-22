@@ -2,13 +2,8 @@
 
 ## Description  
 This is a single-page developer portfolio built using React and TypeScript. It highlights my background, projects, skills, and contact information, and includes a downloadable resume. The app features responsive, mobile-first design with clean UI and interactive elements like navigation and form validation.
-![Homepage Screenshot](client/src/assets/Screenshot%202025-04-22%20085105.png)
 
-![Screenshot 1](client/src/assets/Screenshot%202025-04-22%20085135.png)
 
-![Screenshot 2](client/src/assets/Screenshot%202025-04-22%20085146.png)
-
-![Screenshot 3](client/src/assets/Screenshot%202025-04-22%20085220.png)
 
 
 ## Features  
