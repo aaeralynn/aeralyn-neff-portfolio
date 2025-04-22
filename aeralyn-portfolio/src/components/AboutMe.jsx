@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/AboutMe.css"; // Importing the CSS file for this component
+import "../styles/AboutMe.css"; // Make sure this path is correct
 
 const AboutMe = () => {
   return (
@@ -10,7 +10,7 @@ const AboutMe = () => {
       <img
         src="https://i.imgur.com/f8KPu4N.jpeg"
         alt="Photo of myself"
-        style={{ width: "200px", borderRadius: "50%" }}
+        className="about-image"
       />
 
       <p>
